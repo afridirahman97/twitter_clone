@@ -1,3 +1,11 @@
+The Site is Live at :
+https://cptwitterclone.web.app/
+
+
+This a Front-End clone of twitter, Learned from the Clever Programmer 
+follow Clever Programmer https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
