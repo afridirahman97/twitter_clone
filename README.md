@@ -1,5 +1,5 @@
 
-#This is a Front-End clone of twitter
+# This is a Front-End clone of twitter
 
 The Site is Live at :
 https://cptwitterclone.web.app/
