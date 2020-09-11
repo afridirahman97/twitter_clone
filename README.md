@@ -1,7 +1,9 @@
+
+#This is a Front-End clone of twitter
+
 The Site is Live at :
 https://cptwitterclone.web.app/
 
-This is a Front-End clone of twitter
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
